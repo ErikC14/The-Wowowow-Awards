@@ -1,0 +1,49 @@
+html{
+    text-align:center;
+    background-color:black;
+}
+
+
+.player{
+    color:red;
+    font-family: 'IBM Plex Mono', monospace;
+}
+.young{
+    color:red;
+    font-family: 'IBM Plex Mono', monospace;
+}
+.team{
+    color:red;
+    font-family: 'IBM Plex Mono', monospace;
+}
+.puskas{
+    font-family: 'IBM Plex Mono', monospace;
+    color:red;
+}
+p{
+    color:black;
+    font-family:bold;
+    font-size:2.5em;
+}
+h1{
+    border:solid;
+}
+img{
+    height:300px;
+}
+.name{
+    color:white;
+    font-weight:bold;
+    font-size:2.5em;
+}
+html{
+    background:url("https://league-mp7static.mlsdigital.net/styles/image_landscape/s3/images/Telstar18edits.jpg?wb0j4IrIPJLvhDXaxRoaqLZyzZXBIBli&itok=lrB9mwXM&c=a40cf5e7fd3fee408d3933113077b9dd");
+}
+html{
+    opacity:9;
+}
+background-url{
+    opacity:0;
+}
+
+    
